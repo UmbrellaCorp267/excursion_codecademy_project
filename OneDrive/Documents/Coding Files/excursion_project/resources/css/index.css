@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+    font-weight: normal;
+}
+
+footer {
+    text-align: right !important;
+}
+
+video {
+    object-fit: contain;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+.header {
+   font-weight: 300;
+   font-size: 42px; 
+   color: white;
+}
+
+.subtext {
+    color: gray;
+    font-size: 21px;
+}
+
+.link {
+    font-size: 16px;
+    color: aquamarine;
+    display: block;
+}
